@@ -14,3 +14,21 @@ p {
 }
 
 /* PLACE YOUR CUSTOM CODE HERE */
+body {
+  font-family: 'Ubuntu', sans-serif;
+}
+
+.navbar-default .navbar-brand {
+  color: #F37A74;
+}
+
+.logo {
+  width: 30px;
+}
+
+.jumbotron {
+  background-image: url("../img/hero.jpg");
+  background-size: cover;
+  background-position: center;
+  color: white;
+}
